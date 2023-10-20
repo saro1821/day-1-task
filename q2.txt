@@ -1,0 +1,4 @@
+Write a blog about objects and its internal representation in Javascript
+1.object is a collection of keyvalue pairs that represent properties of an entity. 
+2.The internal representation of an object in JavaScript is called its object structure or object layout.
+3.This includes information about the object properties such as their names values and types as well as information about the object prototype and any other internal data. 
